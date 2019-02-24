@@ -1,0 +1,5 @@
+C:\Users\Коnстантин\source\repos\WebApplication3\ClassLibrary1\bin\Debug\netstandard2.0\WebApplication3.Domain.dll
+C:\Users\Коnстантин\source\repos\WebApplication3\ClassLibrary1\obj\Debug\netstandard2.0\WebApplication3.Core.csprojAssemblyReference.cache
+C:\Users\Коnстантин\source\repos\WebApplication3\ClassLibrary1\obj\Debug\netstandard2.0\WebApplication3.Core.csproj.CoreCompileInputs.cache
+C:\Users\Коnстантин\source\repos\WebApplication3\ClassLibrary1\obj\Debug\netstandard2.0\WebApplication3.Core.AssemblyInfoInputs.cache
+C:\Users\Коnстантин\source\repos\WebApplication3\ClassLibrary1\obj\Debug\netstandard2.0\WebApplication3.Core.AssemblyInfo.cs
